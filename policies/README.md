@@ -7,7 +7,9 @@ link to the minutes recording the vote.
 Policies on contributing, roles, how Maintainers are added, and how TSC voting membership is
 determined live in the organization's
 [CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md), as the
-charter requires. The policies here cover how the TSC itself operates.
+charter requires. The policies here cover how the TSC itself operates. The TSC election rules and any
+company seat cap are defined in CONTRIBUTING.md, because they determine TSC voting
+membership.
 
 ## Still to be defined
 
@@ -15,8 +17,6 @@ Until the TSC adopts a policy, nothing beyond the charter applies.
 
 | Policy | What the TSC decides | Needed before |
 | ------ | -------------------- | ------------- |
-| Company and affiliate seat cap | Maximum voting seats per company and its affiliates, and how a breach caused by a change of employer is resolved. The founding group has proposed two seats per company. | Charter adoption |
-| TSC elections | Number of seats, term length and staggering, election cadence and the date of the first election, how the Maintainer electorate is counted, the voting method, and how mid-term vacancies are filled | First TSC election |
 | Attendance, inactivity and removal | Whether missed meetings or inactivity cost voting status, how a member is reinstated, grounds for removal, and emeritus status | First TSC election |
 | Chair election | How the chair is nominated and elected, term length, whether there is a vice chair, and how a vacancy is filled | Chair election |
 | Voting practice | How votes are called and recorded, how long an electronic vote stays open, whether abstentions count toward quorum, and how ties are handled | First formal TSC vote |

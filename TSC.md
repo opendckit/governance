@@ -15,18 +15,22 @@ how TSC voting membership is determined.
 
 | Name | GitHub | Affiliation | Seated | Term ends |
 | ---- | ------ | ----------- | ------ | --------- |
-| Jin Gao | TBD | China Telecom | At inception | First TSC election |
+| Jin Gao | carrie0501 | China Telecom | At inception | First TSC election |
 | Qi Xu | TBD | China Telecom | At inception | First TSC election |
-| Kay Fritz | TBD | Vodafone | At inception | First TSC election |
+| Kay Fritz | kayfritzvodafone | Vodafone | At inception | First TSC election |
 | Wenjie Zeng | TBD | Huawei | At inception | First TSC election |
-| Yang Li | TBD | Huawei | At inception | First TSC election |
-| Zhongzhang Han | TBD | ZTE Corporation | At inception | First TSC election |
-| Zhu Liu | TBD | Honor Device Co., Ltd | At inception | First TSC election |
-| To be named | TBD | China Unicom | At inception | First TSC election |
+| Yang Li | yangli2026 | Huawei | At inception | First TSC election |
+| Zhongzhang Han | superrabbitdance | ZTE Corporation | At inception | First TSC election |
+| Zhu Liu | l00026119 | Honor Device Co., Ltd | At inception | First TSC election |
+| Xin Wang | TBD | China Unicom | At inception | First TSC election |
+| *Vacant* |  |  |  | First TSC election |
 
 The members above are appointed at inception under Section 2.b of the charter, because the
 project does not yet have a Maintainer community to hold an election. They serve until the
 first TSC election, after which seats are filled by election of the Maintainers.
+
+The TSC has 9 voting seats. Eight are seated at inception. The ninth is vacant and is not
+reserved for any organization.
 
 ## Chair
 

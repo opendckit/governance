@@ -15,13 +15,13 @@ how TSC voting membership is determined.
 
 | Name | GitHub | Affiliation | Seated | Term ends |
 | ---- | ------ | ----------- | ------ | --------- |
-| Jin Gao | carrie0501 | China Telecom | At inception | First TSC election |
+| Jin Gao | Carrie2847 | China Telecom | At inception | First TSC election |
 | Qi Xu | TBD | China Telecom | At inception | First TSC election |
-| Kay Fritz | kayfritzvodafone | Vodafone | At inception | First TSC election |
+| Kay Fritz | TBD | Vodafone | At inception | First TSC election |
 | Wenjie Zeng | TBD | Huawei | At inception | First TSC election |
-| Yang Li | yangli2026 | Huawei | At inception | First TSC election |
-| Zhongzhang Han | superrabbitdance | ZTE Corporation | At inception | First TSC election |
-| Zhu Liu | l00026119 | Honor Device Co., Ltd | At inception | First TSC election |
+| Yang Li | TBD | Huawei | At inception | First TSC election |
+| Zhongzhang Han | TBD | ZTE Corporation | At inception | First TSC election |
+| Zhu Liu | TBD | Honor Device Co., Ltd | At inception | First TSC election |
 | Xin Wang | TBD | China Unicom | At inception | First TSC election |
 | *Vacant* |  |  |  | First TSC election |
 

@@ -18,25 +18,25 @@ how TSC voting membership is determined.
 | Jin Gao | Carrie2847 | China Telecom | At inception | First TSC election |
 | Qi Xu | TBD | China Telecom | At inception | First TSC election |
 | Kay Fritz | TBD | Vodafone | At inception | First TSC election |
-| Wenjie Zeng | TBD | Huawei | At inception | First TSC election |
 | Yang Li | TBD | Huawei | At inception | First TSC election |
 | Zhongzhang Han | TBD | ZTE Corporation | At inception | First TSC election |
 | Zhu Liu | Honor-LiuZhu | Honor Device Co., Ltd | At inception | First TSC election |
 | Xin Wang | TBD | China Unicom | At inception | First TSC election |
+| *Vacant* |  |  |  | First TSC election |
 | *Vacant* |  |  |  | First TSC election |
 
 The members above are appointed at inception under Section 2.b of the charter, because the
 project does not yet have a Maintainer community to hold an election. They serve until the
 first TSC election, after which seats are filled by election of the Maintainers.
 
-The TSC has 9 voting seats. Eight are seated at inception. The ninth is vacant and is not
-reserved for any organization.
+The TSC has 9 voting seats. Seven are seated at inception. The remaining two are vacant and
+are not reserved for any organization.
 
 ## Chair
 
-TBD. The chair presides over TSC meetings and serves until resignation or replacement by the
-TSC. The chair, or another TSC member the TSC designates, is the primary contact between the
-project and LF Networking.
+Jin Gao, elected by a vote of the TSC on November 9, 2026. The chair presides over TSC
+meetings and serves until resignation or replacement by the TSC. The chair, or another TSC
+member the TSC designates, is the primary contact between the project and LF Networking.
 
 ## Meetings
 

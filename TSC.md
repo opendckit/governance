@@ -21,7 +21,7 @@ how TSC voting membership is determined.
 | Wenjie Zeng | TBD | Huawei | At inception | First TSC election |
 | Yang Li | TBD | Huawei | At inception | First TSC election |
 | Zhongzhang Han | TBD | ZTE Corporation | At inception | First TSC election |
-| Zhu Liu | TBD | Honor Device Co., Ltd | At inception | First TSC election |
+| Zhu Liu | Honor-LiuZhu | Honor Device Co., Ltd | At inception | First TSC election |
 | Xin Wang | TBD | China Unicom | At inception | First TSC election |
 | *Vacant* |  |  |  | First TSC election |
 

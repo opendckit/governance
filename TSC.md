@@ -5,23 +5,20 @@ oversight of the project, as set out in the Technical Charter. Its meetings are 
 public.
 
 This file is the authoritative roster. The organization's
-[CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md) explains
+[CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING) explains
 how TSC voting membership is determined.
-
-> **Draft.** The founding group needs to confirm this roster, with a GitHub username for each
-> member, before the charter is adopted.
 
 ## Voting members
 
 | Name | GitHub | Affiliation | Seated | Term ends |
 | ---- | ------ | ----------- | ------ | --------- |
 | Jin Gao | Carrie2847 | China Telecom | At inception | First TSC election |
-| Qi Xu | TBD | China Telecom | At inception | First TSC election |
-| Kay Fritz | TBD | Vodafone | At inception | First TSC election |
-| Yang Li | TBD | Huawei | At inception | First TSC election |
-| Zhongzhang Han | TBD | ZTE Corporation | At inception | First TSC election |
+| Qi Xu | XXXUQI9 | China Telecom | At inception | First TSC election |
+| Kay Fritz | kay-fritz | Vodafone | At inception | First TSC election |
+| Yang Li | LiYang165 | Huawei | At inception | First TSC election |
+| Zhongzhang Han | FlamingoDance | ZTE Corporation | At inception | First TSC election |
 | Zhu Liu | Honor-LiuZhu | Honor Device Co., Ltd | At inception | First TSC election |
-| Xin Wang | TBD | China Unicom | At inception | First TSC election |
+| Xin Wang | wxcat1988 | China Unicom | At inception | First TSC election |
 | *Vacant* |  |  |  | First TSC election |
 | *Vacant* |  |  |  | First TSC election |
 

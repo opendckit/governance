@@ -18,7 +18,7 @@ organized as OpenDCKit a Series of LF Projects, LLC.
 
 How to contribute, the roles in the project, how Maintainers are added, and how TSC voting
 membership is determined are set out in the organization's
-[CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md), as the
+[CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING), as the
 charter requires. Each code repository lists its own Maintainers in its `MAINTAINERS.md`.
 
 ## Other copies of this information

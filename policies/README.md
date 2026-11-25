@@ -6,9 +6,9 @@ link to the minutes recording the vote.
 
 Policies on contributing, roles, how Maintainers are added, and how TSC voting membership is
 determined live in the organization's
-[CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md), as the
+[CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING), as the
 charter requires. The policies here cover how the TSC itself operates. The TSC election rules and any
-company seat cap are defined in CONTRIBUTING.md, because they determine TSC voting
+company seat cap are defined in CONTRIBUTING, because they determine TSC voting
 membership.
 
 ## Adopted
@@ -16,14 +16,14 @@ membership.
 At the Nov 2, 2026 TSC meeting (minutes:
 [2026-11-02 TSC Minutes](https://lf-networking.atlassian.net/wiki/spaces/OpenDCKit/pages/1534689285)),
 the TSC set a 3-month inactivity threshold for Maintainers and TSC members, documented in
-[CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md) alongside
+[CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING) alongside
 the other membership policies it governs.
 
 The TSC also adopted, as process rather than as fixed membership rules:
 
 - **Voting practice**: formal TSC votes and elections run as an
   [LFX Vote](https://app.lfx.dev/docs/votes). Quorum and tie-breaking follow the
-  decision-making rules in CONTRIBUTING.md; how long a vote stays open and how abstentions
+  decision-making rules in CONTRIBUTING; how long a vote stays open and how abstentions
   are counted are still to be defined.
 - **Chair election**: self-nomination followed by an LFX Vote, with a 1-year term matching
   the TSC's own election cycle. See the wiki's

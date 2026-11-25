@@ -1,7 +1,7 @@
 # TSC Elections
 
 After inception, TSC seats are filled by election of the Maintainers, as described in the
-organization's [CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md).
+organization's [CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING).
 The Linux Foundation administers each election as a neutral party. The Maintainers nominate
 and vote.
 

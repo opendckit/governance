@@ -5,7 +5,7 @@ oversight of the project, as set out in the Technical Charter. Its meetings are 
 public.
 
 This file is the authoritative roster. The organization's
-[CONTRIBUTING.md](https://github.com/opendckit/.github/blob/main/CONTRIBUTING.md) explains
+[CONTRIBUTING](https://github.com/opendckit/.github/blob/main/CONTRIBUTING) explains
 how TSC voting membership is determined.
 
 > **Draft.** The founding group needs to confirm this roster, with a GitHub username for each
